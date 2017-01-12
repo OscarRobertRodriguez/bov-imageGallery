@@ -51,38 +51,6 @@
 		"oAP": "\/build\/build",
 		"oF": 0
 		},
-	"\/car1.jpg": {
-		"ft": 16384,
-		"iS": 284653,
-		"oA": 0,
-		"oAP": "\/build\/car1.jpg",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/car2 copy.jpg": {
-		"ft": 16384,
-		"iS": 3743727,
-		"oA": 0,
-		"oAP": "\/build\/car2 copy.jpg",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/car3 copy.jpg": {
-		"ft": 16384,
-		"iS": 2842588,
-		"oA": 0,
-		"oAP": "\/build\/car3 copy.jpg",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/car5 copy.jpg": {
-		"ft": 16384,
-		"iS": 3410283,
-		"oA": 0,
-		"oAP": "\/build\/car5 copy.jpg",
-		"oF": 0,
-		"opt": 1
-		},
 	"\/images\/car1.jpg": {
 		"ft": 16384,
 		"iS": 887673,
