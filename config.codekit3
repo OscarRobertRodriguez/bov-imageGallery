@@ -51,6 +51,38 @@
 		"oAP": "\/build\/build",
 		"oF": 0
 		},
+	"\/car1.jpg": {
+		"ft": 16384,
+		"iS": 284653,
+		"oA": 0,
+		"oAP": "\/build\/car1.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/car2 copy.jpg": {
+		"ft": 16384,
+		"iS": 3743727,
+		"oA": 0,
+		"oAP": "\/build\/car2 copy.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/car3 copy.jpg": {
+		"ft": 16384,
+		"iS": 2842588,
+		"oA": 0,
+		"oAP": "\/build\/car3 copy.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/car5 copy.jpg": {
+		"ft": 16384,
+		"iS": 3410283,
+		"oA": 0,
+		"oAP": "\/build\/car5 copy.jpg",
+		"oF": 0,
+		"opt": 1
+		},
 	"\/images\/car1.jpg": {
 		"ft": 16384,
 		"iS": 887673,
@@ -61,7 +93,7 @@
 		},
 	"\/images\/car2.jpg": {
 		"ft": 16384,
-		"iS": 3743727,
+		"iS": 507786,
 		"oA": 0,
 		"oAP": "\/build\/images\/car2.jpg",
 		"oF": 0,
@@ -69,7 +101,7 @@
 		},
 	"\/images\/car3.jpg": {
 		"ft": 16384,
-		"iS": 2842588,
+		"iS": 555966,
 		"oA": 0,
 		"oAP": "\/build\/images\/car3.jpg",
 		"oF": 0,
@@ -77,7 +109,7 @@
 		},
 	"\/images\/car4.jpg": {
 		"ft": 16384,
-		"iS": 3743727,
+		"iS": 507786,
 		"oA": 0,
 		"oAP": "\/build\/images\/car4.jpg",
 		"oF": 0,
@@ -85,7 +117,7 @@
 		},
 	"\/images\/car5.jpg": {
 		"ft": 16384,
-		"iS": 3410283,
+		"iS": 638057,
 		"oA": 0,
 		"oAP": "\/build\/images\/car5.jpg",
 		"oF": 0,
