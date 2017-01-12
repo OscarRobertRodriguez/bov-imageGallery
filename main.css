@@ -100,7 +100,7 @@ div.bigImage {
     min-width: 100%;
     min-height: 100%;
     opacity: 0;
-    transition: opacity .8s ease-in;
+    transition: opacity .5s ease-in;
 }
 
     div.bigImage img {
@@ -134,6 +134,10 @@ div.bigImage {
 
     [type="radio"]:not(:checked) + label {
     display: none;
+    }
+
+    [type="radio"]:not(:checked) + .bigImage {
+    visibility: hidden;
     }
 
 
