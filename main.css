@@ -79,6 +79,7 @@ ul.thumbnailNav {
         border:1px solid #fff;
         background-color: white;
         transform: translateX(20px);
+        cursor: pointer;
     }
 
         .grabber span {
