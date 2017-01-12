@@ -1,0 +1,27 @@
+
+body {
+    box-sizing: border-box;
+}
+
+
+
+
+
+/* thumbnail navbar */
+ ul.thumbnailNav {
+  margin:0;
+  padding:0;
+  list-style-type: none;
+
+}
+
+
+    ul.thumbnailNav li {
+        list-style-type: none;
+    }
+
+
+    ul.thumbnailNav img {
+        width: 300px;
+        height:200px;
+    }
