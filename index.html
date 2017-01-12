@@ -3,7 +3,7 @@
 <head>
    <meta charset="UTF-8">
    <title>Title</title>
-   <link href="main.css">
+   <link rel="stylesheet" href="main.css">
 </head>
 <body>
 
@@ -12,27 +12,96 @@
 
 <div class="container">
 
+
+
    <!-- Thumbnails at the top -->
    <ul class="thumbnailNav">
-      <li><img src="https://static.pexels.com/photos/24353/pexels-photo.jpg"></li>
 
-      <li><img src="https://static.pexels.com/photos/2394/lights-clouds-dark-car.jpg"></li>
+      <li>
+         <label for="car1">
+            <img src="https://static.pexels.com/photos/24353/pexels-photo.jpg">
+         </label>
+      </li>
 
-      <li><img src="https://static.pexels.com/photos/26796/pexels-photo.jpg"></li>
+      <li>
+         <label for="car2">
+            <img src="https://static.pexels.com/photos/2394/lights-clouds-dark-car.jpg">
+         </label>
+      </li>
 
-      <li><img src="https://static.pexels.com/photos/2394/lights-clouds-dark-car.jpg"></li>
+      <li>
+         <label for="car3">
+            <img src="https://static.pexels.com/photos/26796/pexels-photo.jpg">
+         </label>
+      </li>
+
+      <li>
+         <label for="car4">
+            <img src="https://static.pexels.com/photos/2394/lights-clouds-dark-car.jpg">
+         </label>
+      </li>
+
+      <li>
+         <label for="car5">
+            <img src="https://static.pexels.com/photos/116675/pexels-photo-116675.jpeg">
+         </label>
+      </li>
+
+
+      <div class="grabber"> <span>==</span>      <span>==</span>      <span>==</span> </div>
    </ul>
-   <!-- Thumbnail for 5th image -->
-
-   <!-- HTML Code for Images linked to the thumbnails -->
 
 
+<!-- Container for backdrop image-->
+
+   <input type="radio" id="car" name="cars" checked>
+   <label>
+   <div class="bigImage firstImage">
+
+      <img src="https://static.pexels.com/photos/24353/pexels-photo.jpg">
+   </div>
+   </label>
+
+   <input type="radio" id="car1" name="cars">
+   <div class="bigImage">
+
+      <img src="https://static.pexels.com/photos/24353/pexels-photo.jpg">
+   </div>
+
+
+   <input type="radio" id="car2" name="cars">
+   <div class="bigImage">
+
+      <img src="https://static.pexels.com/photos/2394/lights-clouds-dark-car.jpg">
+   </div>
+
+
+   <input type="radio" id="car3" name="cars">
+   <div class="bigImage">
+
+      <img src="https://static.pexels.com/photos/26796/pexels-photo.jpg">
+   </div>
+
+
+   <input type="radio" id="car4" name="cars">
+   <div class="bigImage">
+      <img src="https://static.pexels.com/photos/2394/lights-clouds-dark-car.jpg">
+
+   </div>
+
+
+   <input type="radio" id="car5" name="cars">
+   <div class="bigImage">
+      <img src="https://static.pexels.com/photos/116675/pexels-photo-116675.jpeg">
+
+   </div>
 
 
 
-   <!-- Placeholder for 5th image -->
 </div>
 
 
 </body>
 </html>
+
+
